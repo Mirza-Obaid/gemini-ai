@@ -31,7 +31,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'event_stream_parser', '~> 1.0'
   spec.add_dependency 'faraday', '~> 1.0'
-  spec.add_dependency 'faraday-typhoeus', '~> 1.1'
+  # spec.add_dependency 'faraday-typhoeus', '~> 1.1'
 
   # Before upgrading, check this:
   # https://github.com/gbaptista/gemini-ai/pull/10
